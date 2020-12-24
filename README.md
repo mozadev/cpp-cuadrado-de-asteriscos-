@@ -1,2 +1,1 @@
-# cpp-cuadrado-de-asteriscos-
-Realice una aplicación en C++ que solicite el ingreso de un número enteros, positivo y menor a 10 (N) y muestre, al centro de la pantalla, un cuadrado de lado N y la diagonal principal de este. Ejemplo: Ingrese N: 5
+![cuadrado](https://user-images.githubusercontent.com/30559667/103049852-e371e000-4560-11eb-9e26-acadaf397ff7.PNG)
